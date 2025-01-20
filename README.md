@@ -8,7 +8,7 @@ CTG interpretation helps in determining if the pregnancy is high or low risk. An
 
 ## Data
 
-The data is available on Kaggle, as well as in this repo.
+The data is available on [Kaggle](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data), as well as in this repo.
 
 ### Data Preprocessing
 
