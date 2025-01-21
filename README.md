@@ -39,4 +39,11 @@ As class 2 and 3 have less amount of data, their distributions are not well defi
 
 The box plot shows distribution of the data as well as lower bound, median, upper bound as well as the outliers that don't fall under the lower and upper bounds. Most of the feature columns has **outliers** or extreme values.
 
+For **Multi-variate analysis** we used pairplot
+
+<img src=graphs/pairplot_with_hue.png width=600 height=500></br>
+
+With the pairplot, we can visualize some correlation of all the numerical features with each other.
+
+
 
